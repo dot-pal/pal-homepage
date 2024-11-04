@@ -1,0 +1,9 @@
+{
+  "label": "Audits",
+  "position": 2,
+  "link": {
+    "slug": "/audits",
+    "type": "generated-index",
+    "description": "PAL provides"
+  }
+}
