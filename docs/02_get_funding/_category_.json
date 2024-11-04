@@ -1,0 +1,10 @@
+{
+  "label": "Get Funding",
+  "position": 2,
+  "description":"Apply for funding for your audit with PAL",
+  "link": {
+    "slug": "/funding",
+    "type": "generated-index",
+    "description": "To make Polkadot a safe an attractive ecosystem for both builders and users, PAL provides funding towards the categories listed below:"
+  }
+}
