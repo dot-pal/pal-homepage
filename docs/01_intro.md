@@ -16,3 +16,5 @@ We provide [funding](/funding) from the Polkadot Treasury towards various securi
 We also collaborate with industry-leading security experts such as the [Security Alliance](https://securityalliance.org/) to bring their initiatives into Polkadot. 
 
 To learn more about the activities of PAL you can check out our [community reports](/community_reports).
+
+Looking to get in touch with us? Join our [Discord](https://discord.gg/xDyGGcnCJw) or [write us an email](05_other/01_curators.md).

@@ -1,0 +1,9 @@
+{
+  "label": "Other",
+  "position": 5,
+  "link": {
+    "slug": "/curators",
+    "type": "generated-index",
+    "description": "Other documents"
+  }
+}
