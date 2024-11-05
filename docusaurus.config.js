@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/dotpal/pal-homepage',
+                href: 'https://github.com/dot-pal/pal-homepage',
               },
             ],
           },
