@@ -10,7 +10,7 @@ PAL can cover **up to 50%** of the costs of an audit, with a hard cap of **$50,0
 
 The hard cap applies on all audits requested by a project for a period of 6 months.
 
-All funding is paid out in DOT.
+All funding is paid out in DOT using the 30-day DOT EMA price.
 
 ## Eligibility Criteria
 In order to receive PAL funding, applications need to satisfy all the following criteria:

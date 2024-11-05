@@ -19,7 +19,7 @@ The maximum payout amount depends on how long the applicant has been producing b
 
 The limits above apply per project for a duration of 6 months. After 6 months, the limits are reset.
 
-All funding is paid out in DOT.
+All funding is paid out in DOT using the 30-day DOT EMA price.
 
 ## Eligibility Criteria
 In order to receive PAL funding, applications need to satisfy all the following criteria:

@@ -1,8 +1,9 @@
 ---
-title: Curators
+title: Contact Us
+slug: /contact
 ---
 
-PAL is managed by the following 7 curators:
+Join our [Discord](https://discord.gg/xDyGGcnCJw), or write en email to one of the 7 curators:
 
 | Name                         | Email                  |
 |------------------------------|------------------------|
