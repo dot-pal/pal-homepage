@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/dot-pal/pal-homepage/',
+            'https://github.com/dot-pal/pal-homepage/blob/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
