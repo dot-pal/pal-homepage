@@ -13,4 +13,3 @@ Join our [Discord](https://discord.gg/xDyGGcnCJw), or write en email to one of t
 | 0xTaylor                     | 0xtaylor@dotpal.io     |
 | Alberto Viera                | alberto@dotpal.io      |
 | Vince Di Giambettista        | vince@dotpal.io        |
-| Kirill Pimenov               | kirill@dotpal.io       |
