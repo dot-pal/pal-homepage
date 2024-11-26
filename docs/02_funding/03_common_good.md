@@ -12,7 +12,7 @@ PAL can cover the full costs of an audit of common-good functionality, with a ca
 
 All funding is paid out in DOT using the 30-day DOT EMA price.
 
-## Process
+## Application
 Funding for audits of common-good functionality is provided upon the initiative of the PAL Curators.
 
 If you would like to propose an audit for such functionality, please [get in touch with us](/contact).

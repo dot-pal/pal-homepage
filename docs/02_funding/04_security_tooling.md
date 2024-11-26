@@ -5,6 +5,12 @@ description: Common-good Security Tooling for Polkadot
 
 PAL can provide funding for the development of open-source security tooling which is made available to the Polkadot ecosystem.
 
+<div class="fundingButton">
+  <a href="https://forms.gle/SvSG3dBkabirMsQ5A" target="_blank" class="button button--primary">
+    <p class="innerButtonText"> Apply for Funding </p>
+  </a>
+</div>
+
 ## Funding
 PAL can provide up to **$250,000** funding (in milestones of max. $50,000).
 
@@ -30,5 +36,6 @@ Follow the steps below to apply for audit funding:
 1. Make sure you fulfill the [Eligibility Criteria](#eligibility-criteria).
 2. Join the [PAL Discord](https://discord.gg/xDyGGcnCJw) - this is where all communication takes place.
 3. Prepare an offer in accordance with the [Eligibility Criteria](#eligibility-criteria).
-4. Submit your funding application using our Application Form (coming soon).
-5. We will get in touch you, usually within 1-2 weeks.
+4. Submit your funding application using our Application Form at the top of this page.
+
+The usual processing time of applications is 1-2 weeks. We will keep you updated in a dedicated Discord channel.

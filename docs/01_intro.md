@@ -8,7 +8,7 @@ PAL is a non-profit community initiative which has the mission to promote and ad
 
 We provide [funding](/funding) from the Polkadot Treasury towards various security initiatives:
 
-* Funding audits of [rollups](02_funding/01_rollups.md) and [smart contracts](02_funding/02_smart_contracts.md) that are secured by Polkadot.
+* Funding audits of [parachains](02_funding/01_parachains.md) and [smart contracts](02_funding/02_smart_contracts.md) that are secured by Polkadot.
 * Funding audits of [common-good functionality](02_funding/03_common_good.md).
 * Funding the development of open-source [Security Tooling](02_funding/04_security_tooling.md) which is made available for the Polkadot ecosystem. 
 * Funding other security initiatives that are aligned with PAL's mission.
