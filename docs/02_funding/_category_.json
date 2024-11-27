@@ -1,7 +1,7 @@
 {
   "label": "Get Funding",
   "position": 2,
-  "description":"Apply for funding for your audit with PAL",
+  "description": "Apply for funding through PAL for your audit or to develop a security tool.",
   "link": {
     "slug": "/funding",
     "type": "generated-index",
