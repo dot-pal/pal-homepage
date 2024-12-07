@@ -84,7 +84,7 @@ const config = {
               },
               {
                 label: 'X',
-                href: 'https://x.com/PolkadotAssured',
+                href: 'https://x.com/dotpal_',
               },
             ],
           },
