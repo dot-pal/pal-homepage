@@ -12,6 +12,7 @@ PAL works with a curated pool of reputable auditors in the Web3 security space. 
 | Chaintroppers        | Rust, Solidity | info@chaintroopers.com                 |
 | CoinFabrik           | Rust, Solidity | valeria.caracciolo@coinfabrik.com      |
 | Dedaub               | Rust, Solidity | contact@dedaub.com                     |
+| Hacken               | Rust, Solidity | b.bennett@hacken.io                    |
 | OAK Security         | Rust, Solidity | info@oaksecurity.io                    |
 | OpenZeppelin         | Rust, Solidity | contact@openzeppelin.com               |
 | Pashov Audit Group   | Rust, Solidity | pashovkrum@gmail.com                   |
@@ -23,12 +24,13 @@ PAL works with a curated pool of reputable auditors in the Web3 security space. 
 | Zellic               | Rust, Solidity | kaushik@zellic.io                      |
 
 ## Crowdsourced audits
-| Name       | Works with     | Contact               |
-| ---------- | -------------- | --------------------- |
-| Code4rena  | Rust, Solidity | trebien@code4rena.com |
-| Cantina    | Rust, Solidity | henry@spearbit.com    |
-| Codehawks  | Rust, Solidity | mark@cyfrin.io        |
-| Immunefi   | Rust, Solidity | team@immunefi.com     |
+| Name        | Works with     | Contact                    |
+| ----------- | -------------- | -------------------------- |
+| Code4rena   | Rust, Solidity | trebien@code4rena.com      |
+| Cantina     | Rust, Solidity | henry@spearbit.com         |
+| Codehawks   | Rust, Solidity | mark@cyfrin.io             |
+| HackenProof | Rust, Solidity | e.fedotova@hackenproof.com | 
+| Immunefi    | Rust, Solidity | team@immunefi.com          |
 
 ## Selecting an Auditor 
 
