@@ -12,4 +12,4 @@ Join our [Discord](https://discord.gg/xDyGGcnCJw), or write en email to one of t
 | Pierre Ossun                 | pierre.ossun@dotpal.io |
 | 0xTaylor                     | 0xtaylor@dotpal.io     |
 | Alberto Viera                | alberto@dotpal.io      |
-| Vince Di Giambettista        | vince@dotpal.io        |
+| Vince Di Giambattista        | vince@dotpal.io        |
