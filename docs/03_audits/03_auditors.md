@@ -1,9 +1,17 @@
 ---
-title: List of Auditors
-description: Browse the list of auditors that cooperate with PAL
+title: Auditors
+description: Onboard as an auditor or browse the list of auditors that cooperate with PAL
 ---
 
-PAL works with a curated pool of reputable auditors in the Web3 security space. This includes both traditional auditing firms and platforms for crowdsourced audits. The following is a list of PAL-approved auditors with their contacts:
+PAL works with a curated pool of reputable auditors in the Web3 security space. This includes both traditional auditing firms and platforms for crowdsourced audits.
+
+<div class="fundingButton">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeqJ7ws6JTOcEZ2jwmO3-Y3WTK4ZrIyTzN9Oil6fO0QroLKlQ/viewform" target="_blank" class="button button--primary">
+    <p class="innerButtonText"> Apply as Auditor </p>
+  </a>
+</div>
+
+The following is a list of PAL-approved auditors with their contacts:
 
 ## Traditional audits
 | Name                 | Works with     | Contact                                |
