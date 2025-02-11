@@ -23,7 +23,9 @@ The Bug Bounty Reimbursement Program is aimed at supporting projects running eff
 
 ## Funding
 
-PAL can reimburse **up to 50%** of the total whitehat payout (**platform fees excluded**), with a yearly cap of **$80,000** per project, per calendar year. The maximum payout per reported vulnerability depends on the severity classification per the following table:
+Parachain projects that apply to any of PAL's funding programs can receive a combine total of up to **$100,000** every 6 months.
+
+Through the Bug Bounty Reimbursement Program, PAL can reimburse **up to 50%** of the total whitehat payout (**platform fees excluded**), with a yearly cap of **$80,000** per project, per calendar year. The maximum payout per reported vulnerability depends on the severity classification per the following table:
 
 | # Severity | Max Payout       |
 |------------|------------------|
