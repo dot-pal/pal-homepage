@@ -1,6 +1,6 @@
 ---
 title: Bug Bounty
-description: Bug bounty refund program for Polkadot-SDK chains secured by Polkadot
+description: Bug Bounty Reimbursement Program for Polkadot-SDK chains secured by Polkadot
 ---
 
 PAL can provide reimbursement for bug bounty programs run by chains built on Polkadot-SDK which are secured by Polkadot.
@@ -10,7 +10,7 @@ The Bug Bounty Reimbursement Program is aimed at supporting projects running eff
 **Final decision on reimbursement amount (or denial) is made by PAL curators.**
 
 <div class="fundingButton">
-  <a href="https://forms.gle/SbN9ygbDsvX3XU5d6" target="_blank" class="button button--primary">
+  <a href="https://forms.gle/1xjcR1RP4FmCwbtt5" target="_blank" class="button button--primary">
     <p class="innerButtonText"> Apply for Funding </p>
   </a>
 </div>
