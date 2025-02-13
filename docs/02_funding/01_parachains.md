@@ -12,7 +12,10 @@ PAL can provide funding for audits of Polkadot parachains - i.e. chains built on
 </div>
 
 ## Funding
-PAL can cover **up to 80%** of the costs of an audit, with a hard cap of **$100,000**.
+
+Parachain projects that apply to any of PAL's funding programs can receive a combine total of up to **$100,000** every 6 months.
+
+Through the Audit Funding Program, PAL can cover **up to 80%** of the costs of an audit, with a hard cap of **$100,000**, per project, every 6 months.
 
 The maximum payout amount depends on how long the applicant has been producing blocks on the Polkadot network:
 
@@ -23,9 +26,7 @@ The maximum payout amount depends on how long the applicant has been producing b
 | 3                   | 806,401 - 1,209,600 | $ 75,000   |
 | 4 / Parachain Slot  | 1,209,601 +         | $ 100,000  |
 
-
-The limits above apply per project for 6 months. After 6 months, they are reset.
-
+<br />
 All funding is paid out in DOT using the 30-day DOT EMA price.
 
 ## Eligibility Criteria
