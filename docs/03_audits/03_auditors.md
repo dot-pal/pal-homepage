@@ -15,23 +15,24 @@ PAL works with a curated pool of reputable auditors in the Web3 security space. 
 The following is a list of PAL-approved auditors with their contacts:
 
 ### Traditional audits
-| Name                                                    | Works with     | Contact                           |
-|---------------------------------------------------------|----------------|-----------------------------------|
-| [Beosin](https://beosin.com)                            | Rust, Solidity | service@beosin.com                |
-| [Chaintroopers](https://chaintroopers.com)              | Rust, Solidity | info@chaintroopers.com            |
-| [CoinFabrik](https://coinfabrik.com)                    | Rust, Solidity | valeria.caracciolo@coinfabrik.com |
-| [Dedaub](https://dedaub.com)                            | Rust, Solidity | contact@dedaub.com                |
-| [Guvenkaya](https://www.guvenkaya.co/)                  | Rust, Web2     | timur@guvenkaya.co                |
-| [Hacken](https://hacken.io)                             | Rust, Solidity | b.bennett@hacken.io               |
-| [OAK Security](https://oaksecurity.io)                  | Rust, Solidity | info@oaksecurity.io               |
-| [OpenZeppelin](https://openzeppelin.com)                | Rust, Solidity | contact@openzeppelin.com          |
-| [Pashov Audit Group](https://www.pashov.net/)           | Rust, Solidity | pashovkrum@gmail.com              |
-| [Red4Sec](https://red4sec.com)                          | Rust, Solidity | info@red4sec.com                  |
-| [Runtime Verification](https://runtimeverification.com) | Rust, Solidity | contact@runtimeverification.com   |
-| [Spearbit](https://spearbit.com)                        | Rust, Solidity | henry@spearbit.com                |
-| [SRLabs](https://srlabs.de)                             | Rust, Solidity | hello@srlabs.de                   |
-| [Trail of Bits](https://trailofbits.com)                | Rust, Solidity | sales@trailofbits.com             |
-| [Zellic](https://zellic.io)                             | Rust, Solidity | kaushik@zellic.io                 |
+| Name                                                    | Works with                           | Contact                           |
+|---------------------------------------------------------|--------------------------------------|-----------------------------------|
+| [Beosin](https://beosin.com)                            | Rust, Solidity                       | service@beosin.com                |
+| [Certora](https://www.certora.com/)                    | Formal Verification, Smart Contracts | tre@certora.com            |
+| [Chaintroopers](https://chaintroopers.com)              | Rust, Solidity                       | info@chaintroopers.com            |
+| [CoinFabrik](https://coinfabrik.com)                    | Rust, Solidity                       | valeria.caracciolo@coinfabrik.com |
+| [Dedaub](https://dedaub.com)                            | Rust, Solidity                       | contact@dedaub.com                |
+| [Guvenkaya](https://www.guvenkaya.co/)                  | Rust, Web2                           | timur@guvenkaya.co                |
+| [Hacken](https://hacken.io)                             | Rust, Solidity                       | b.bennett@hacken.io               |
+| [OAK Security](https://oaksecurity.io)                  | Rust, Solidity                       | info@oaksecurity.io               |
+| [OpenZeppelin](https://openzeppelin.com)                | Rust, Solidity                       | contact@openzeppelin.com          |
+| [Pashov Audit Group](https://www.pashov.net/)           | Rust, Solidity                       | pashovkrum@gmail.com              |
+| [Red4Sec](https://red4sec.com)                          | Rust, Solidity                       | info@red4sec.com                  |
+| [Runtime Verification](https://runtimeverification.com) | Rust, Solidity                       | contact@runtimeverification.com   |
+| [Spearbit](https://spearbit.com)                        | Rust, Solidity                       | henry@spearbit.com                |
+| [SRLabs](https://srlabs.de)                             | Rust, Solidity                       | hello@srlabs.de                   |
+| [Trail of Bits](https://trailofbits.com)                | Rust, Solidity                       | sales@trailofbits.com             |
+| [Zellic](https://zellic.io)                             | Rust, Solidity                       | kaushik@zellic.io                 |
 
 ### Crowdsourced audits
 | Name                                      | Works with     | Contact                    |
