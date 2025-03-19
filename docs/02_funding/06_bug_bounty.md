@@ -67,3 +67,12 @@ Follow the steps below to apply for Bug Bounty Reimbursement Program:
 3. Submit your funding application using our Application Form at the top of this page.
 
 The usual processing time of applications is 1-2 weeks. We will keep you updated on a dedicated Discord channel.
+
+## Offers from Bug Bounty Partners:
+
+**1. [HackenProof](https://hackenproof.com/) (web3 bug bounty and crowdsourced audit platform)**
+
+To support security efforts, PAL will enhance the accessibility of these bug bounty programs with tailored launching conditions:
+- **Free** listing & report validation
+- Dedicated account for your project & personalized support from HackenProof
+- Reduced bug fee: **5%** instead of 10% for validated reports **OR** reduced monthly subscription for **$400** (PAL reimburses everything on top of the bug fee or subscription)
