@@ -75,4 +75,4 @@ The usual processing time of applications is 1-2 weeks. We will keep you updated
 To support security efforts, PAL will enhance the accessibility of these bug bounty programs with tailored launching conditions:
 - **Free** listing & report validation
 - Dedicated account for your project & personalized support from HackenProof
-- Reduced bug fee: **5%** instead of 10% for validated reports **OR** reduced monthly subscription for **$400** (PAL reimburses everything on top of the bug fee or subscription)
+- Reduced bug fee: **5%** instead of 10% for validated reports **OR** reduced monthly subscription for **$400** instead of $1200
