@@ -29,6 +29,9 @@ In order to receive PAL funding, applications need to satisfy all the following 
 * Proposals should be geared more towards a working product, not research.
 * Comprehensive documentation of the security tool is part of the expected output. This includes both a user guide on using the tool, and code documentation.
 * The ability to demonstrate endorsement of the tool from within the Polkadot ecosystem is an advantage.
+* The tool must be integrated with at least one active Polkadot parachain as part of the deliverables, demonstrating real-world usability and effectiveness.
+* Applications must specify the period of time the tool will be maintained after development, including regular updates and bug fixes. This maintenance commitment should be clearly defined in the proposal.
+* If feasible, a separate maintenance cost proposal for future updates beyond the initial commitment period should be included to ensure the long-term viability of the tool.
 
 ## Application
 Follow the steps below to apply for audit funding:
