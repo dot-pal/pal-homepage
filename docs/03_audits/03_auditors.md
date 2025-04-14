@@ -24,6 +24,7 @@ The following is a list of PAL-approved auditors with their contacts:
 | [Dedaub](https://dedaub.com)                            | Rust, Solidity                       | contact@dedaub.com                |
 | [Guvenkaya](https://www.guvenkaya.co/)                  | Rust, Web2                           | timur@guvenkaya.co                |
 | [Hacken](https://hacken.io)                             | Rust, Solidity                       | b.bennett@hacken.io               |
+| [Hexens](https://hexens.io/)                            | Solidity                             | alice.rigby@hexens.io             |
 | [OAK Security](https://oaksecurity.io)                  | Rust, Solidity                       | info@oaksecurity.io               |
 | [OpenZeppelin](https://openzeppelin.com)                | Rust, Solidity                       | contact@openzeppelin.com          |
 | [Pashov Audit Group](https://www.pashov.net/)           | Rust, Solidity                       | pashovkrum@gmail.com              |
