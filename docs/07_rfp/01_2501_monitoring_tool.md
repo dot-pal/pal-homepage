@@ -54,3 +54,4 @@ Vendors who are interested to deliver the requested tool can apply following thi
 * Max funding is $250,000, split into milestones not exceeding $50,000
 * If the total costs exceed this limit, it can be negotiated to deliver an MVP with the core functionality that fits within the limit, with a follow-up request to OpenGov to cover the remaining functionality (once the MVP has been delivered)
 * The proposal should cover the maintenance of the tool during 12 months after its delivery, as well as an estimate of the maintenance costs thereafter
+* [Join our Discord](https://discord.gg/xDyGGcnCJw) and get in touch
