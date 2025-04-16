@@ -48,7 +48,7 @@ In addition, the tool must provide the ability to allow teams to define custom r
 Vendors who are interested to deliver the requested tool can apply following this procedure:
 * Application deadline: May 15th, 2025  
 * Apply by submitting [this form](https://docs.google.com/forms/d/e/1FAIpQLSdy1EecY64xCYPUMJDC37a8po7ECFHp94Ouxv_ctk9hxABxYA/viewform)
-* Check out the [eligibility criteria](/funding/security_tooling)
+* Check out the [eligibility criteria](/funding/security_tooling), a short recap hereunder
 * The application should include an offer which details out the scope of the implementation, the timeframes, the milestones and the cost (including man-hours and rate per role)  
 * The tool should be open-source
 * Max funding is $250,000, split into milestones not exceeding $50,000
