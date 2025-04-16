@@ -47,5 +47,9 @@ Ability to allow teams to define custom rules. E.g. storage value of X @ chain A
 ## How to Apply
 Vendors who are interested to deliver the requested tool can apply following this procedure:
 * Application deadline: May 15th, 2025  
-* Apply by sending an email to XXX  
-* The application should include an offer which details out the scope of the implementation, the timeframes, and the cost  
+* Apply by submitting [this form](https://docs.google.com/forms/d/e/1FAIpQLSdy1EecY64xCYPUMJDC37a8po7ECFHp94Ouxv_ctk9hxABxYA/viewform)
+* Check out the [eligibility criteria](/funding/security_tooling)
+* The application should include an offer which details out the scope of the implementation, the timeframes, the milestones and the cost (including man-hours and rate per role)  
+* Max funding is $250,000, split into milestones not exceeding $50,000
+* If the total costs exceed this limit, it can be negotiated to deliver an MVP with the core functionality that fits within the limit, with a follow-up request to OpenGov to cover the remaining functionality (once the MVP has been delivered)
+* The proposal should cover the maintenance of the tool during 12 months after its delivery, as well as an estimate of the maintenance costs thereafter
