@@ -42,7 +42,7 @@ Below you find a preliminary list of the most important flows and metrics that s
 
 All amounts should be tracked both in asset amount and DOT in USD amount.
 
-Ability to allow teams to define custom rules. E.g. storage value of X @ chain A + storage value of Y @ chain B - storage value of Z @ chain C smaller than 100.
+In addition, the tool must provide the ability to allow teams to define custom rules (For example,  storage value of X @ chain A + storage value of Y @ chain B - storage value of Z @ chain C smaller than 100).
 
 ## How to Apply
 Vendors who are interested to deliver the requested tool can apply following this procedure:
