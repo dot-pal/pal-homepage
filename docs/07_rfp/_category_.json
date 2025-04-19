@@ -1,0 +1,9 @@
+{
+  "label": "Requests for Proposals",
+  "position": 7,
+  "link": {
+    "slug": "/rfp",
+    "type": "generated-index",
+    "description": "A repository of all community reports documenting the activity of PAL throughout the years"
+  }
+}

@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
@@ -42,11 +42,10 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          routeBasePath: "/",
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/dot-pal/pal-homepage/blob/main/',
+          editUrl: 'https://github.com/dot-pal/pal-homepage/blob/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -103,6 +102,14 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+      announcementBar: {
+        id: 'live_announcement',
+        content:
+          'Monitoring tool RFP is live, check the requirements and apply <a rel="noopener noreferrer" href="/rfp/2501">here</a>.',
+        backgroundColor: '#FFE4EC',
+        textColor: '#FF2670',
+        isCloseable: true,
       },
     }),
 };
