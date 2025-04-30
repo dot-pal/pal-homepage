@@ -17,7 +17,7 @@ Examples of such functionality are Polkadot-SDK pallets that are used by multipl
 ## Funding
 PAL can cover the full costs of an audit of common-good functionality, with a cap of $100,000.
 
-All funding is paid out in DOT using the 30-day DOT EMA price.
+All funding is paid out in DOT using the 7-day DOT EMA price.
 
 ## Application
 Funding for audits of common-good functionality is provided upon the initiative of the PAL Curators.

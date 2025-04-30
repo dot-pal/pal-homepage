@@ -27,7 +27,7 @@ The maximum payout amount depends on how long the applicant has been producing b
 | 4 / Parachain Slot  | 1,209,601 +         | $ 100,000  |
 
 <br />
-All funding is paid out in DOT using the 30-day DOT EMA price.
+All funding is paid out in DOT using the 7-day DOT EMA price.
 
 ## Eligibility Criteria
 To receive PAL funding, applications need to satisfy all the following criteria:

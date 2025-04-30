@@ -14,7 +14,7 @@ PAL can provide funding for the development of open-source security tooling whic
 ## Funding
 PAL can provide up to **$250,000** funding (in milestones of max. $50,000).
 
-All funding is paid out in DOT using the 30-day DOT EMA price.
+All funding is paid out in DOT using the 7-day DOT EMA price.
 
 ## Eligibility Criteria
 In order to receive PAL funding, applications need to satisfy all the following criteria:

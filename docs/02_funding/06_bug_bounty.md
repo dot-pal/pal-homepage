@@ -37,7 +37,7 @@ Through the Bug Bounty Reimbursement Program, PAL can reimburse **up to 50%** of
 <br />
 In addition, reimbursement amounts consider potential cross-project or systemic risks, bug bounty report quality, timeliness of patching the vulnerability and responsible disclosure with affected projects and stakeholders. 
 
-All funding is paid out in DOT using the 30-day DOT EMA price.
+All funding is paid out in DOT using the 7-day DOT EMA price.
 
 **Final decision on reimbursement amount (or denial) is made by PAL curators.**
 
