@@ -45,7 +45,7 @@ All amounts should be tracked both in asset amount and DOT in USD amount.
 In addition, the tool must provide the ability to allow teams to define custom rules (For example,  storage value of X @ chain A + storage value of Y @ chain B - storage value of Z @ chain C smaller than 100).
 
 ## How to Apply
-Vendors who are interested to deliver the requested tool can apply following this procedure (**application deadline: May 15th, 2025**):
+Vendors who are interested to deliver the requested tool can apply following this procedure (**application deadline: May 30th, 2025**):
 
 * Check out the [eligibility criteria](/funding/security_tooling). A short recap hereunder:
     * Max funding is $250,000, split into milestones not exceeding $50,000
