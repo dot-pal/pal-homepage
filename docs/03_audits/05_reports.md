@@ -2,6 +2,14 @@
 title: Audit Reports
 description: Explore all the audit reports that were made possible by PAL
 ---
+## 2025
+### Q1
+
+| Audit              | LOC   | Critical | High | Med | Low | Report                                               |
+|--------------------|-------|----------|------|-----|-----|------------------------------------------------------|
+| kilt-oak-2502      | 2,127 | 0        | 1    | 0   | 5   | [report](/audit_reports/25q1/kilt-oak-2502.pdf)      |
+| hydration-oak-2503 | 4,513 | 0        | 3    | 0   | 3   | [report](/audit_reports/25q1/hydration-oak-2503.pdf) |
+
 
 ## 2024
 
