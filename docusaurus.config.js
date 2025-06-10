@@ -103,14 +103,6 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-      announcementBar: {
-        id: 'live_announcement',
-        content:
-          'Monitoring tool RFP is live, check the requirements and apply <a rel="noopener noreferrer" href="/rfp/2501">here</a>.',
-        backgroundColor: '#FFE4EC',
-        textColor: '#FF2670',
-        isCloseable: true,
-      },
     }),
 };
 
