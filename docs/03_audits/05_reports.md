@@ -15,7 +15,7 @@ description: Explore all the audit reports that were made possible by PAL
 | hydration-pashov-2410  | 975          | 0        | 1    | 3   | 5   | [report](/audit_reports/24h2/hydration-pashov-2410.pdf) |
 | zeitgeist-oak-2410     | 6,273        | 0        | 3    | 4   | 4   | [report](/audit_reports/24h2/zeitgeist-oak-2410.pdf)    |
 | astar-srl-2411         | 125          | 0        | 0    | 0   | 0   | [report](/audit_reports/24h2/astar-srl-2411.pdf)        |
-| moonbeam-srlabs-2411\* | (continuous) | TBA      | TBA  | TBA | TBA | report coming soon                                      |
+| moonbeam-srlabs-2411\* | (continuous) | 0        | 0    | 0   | 1   | [report](/audit_reports/24h2/moonbeam-srl-2411.pdf)     |
 
 ### H1 (Jan - Jun)
 
