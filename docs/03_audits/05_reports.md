@@ -15,7 +15,7 @@ description: Explore all the audit reports that were made possible by PAL
 | hydration-pashov-2410  | 975          | 0        | 1    | 3   | 5   | [report](/audit_reports/24h2/hydration-pashov-2410.pdf) |
 | zeitgeist-oak-2410     | 6,273        | 0        | 3    | 4   | 4   | [report](/audit_reports/24h2/zeitgeist-oak-2410.pdf)    |
 | astar-srl-2411         | 125          | 0        | 0    | 0   | 0   | [report](/audit_reports/24h2/astar-srl-2411.pdf)        |
-| moonbeam-srlabs-2411\* | (continuous) | TBA      | TBA  | TBA | TBA | report coming soon                                      |
+| moonbeam-srlabs-2411 | (continuous) | 0        | 0    | 0   | 1   | [report](/audit_reports/24h2/moonbeam-srl-2411.pdf)     |
 
 ### H1 (Jan - Jun)
 
@@ -29,7 +29,7 @@ description: Explore all the audit reports that were made possible by PAL
 | astar-srl-2401       | 5,427  | 2    | 1   | 1   | [report](/audit_reports/24h1/astar-srl-2401.pdf)       |
 | astar-zellic-2401    | 251    | 0    | 0   | 1   | [report](/audit_reports/24h1/astar-zellic-2401.pdf)    |
 | invarch-srl-2402     | 5,442  | 5    | 2   | 1   | [report](/audit_reports/24h1/invarch-srl-2402.pdf)     |
-| moonbeam-srl-2401    | N/A\*  | 0    | 2   | 0   | [report](/audit_reports/24h1/moonbeam-srl-2401.pdf)    |
+| moonbeam-srl-2401    | (continous)  | 0    | 2   | 0   | [report](/audit_reports/24h1/moonbeam-srl-2401.pdf)    |
 | peaq-srl-2402        | 54,391 | 9    | 3   | 0   | [report](/audit_reports/24h1/peaq-srl-2402.pdf)        |
 | astar-srl-2403       | 130    | 0    | 0   | 1   | [report](/audit_reports/24h1/astar-srl-2403.pdf)       |
 | hydradx-srl-2405     | 1,012  | 0    | 1   | 0   | [report](/audit_reports/24h1/hydradx-srl-2405.pdf)     |
