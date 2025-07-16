@@ -5,10 +5,10 @@ description: Explore all the audit reports that were made possible by PAL
 ## 2025
 ### Q2
 
-| Audit                | LOC    | Critical | High | Med | Low | Report                                                 |
-|----------------------|--------|----------|------|-----|-----|--------------------------------------------------------|
-| frontier-srlabs-2505 | 67,618 | 0        | 1    | 3   | 0   | [report](/audit_reports/25q2/frontier-srlabs-2505.pdf) |
-| micro-sr25519-2504   | 575    | 0        | 0    | 0   | 7   | [report](/audit_reports/25q2/micro-sr25519-2504.pdf)   |
+| Audit                | LOC    | Critical | High | Med | Low | Report                                                  |
+|----------------------|--------|----------|------|-----|-----|---------------------------------------------------------|
+| frontier-srlabs-2505 | 67,618 | 0        | 1    | 3   | 0   | [report](/audit_reports/25q2/frontier-srlabs-2505.pdf)  |
+| microsr2551-oak-2504 | 575    | 0        | 0    | 0   | 7   | [report](/audit_reports/25q2/microsr25519-oak-2504.pdf) |
 
 
 ### Q1
