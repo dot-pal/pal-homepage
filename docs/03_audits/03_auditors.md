@@ -43,6 +43,7 @@ The following is a list of PAL-approved auditors with their contacts:
 | [Codehawks](https://codehawks.cyfrin.io/) | Rust, Solidity | mark@cyfrin.io             |
 | [HackenProof](https://hackenproof.com)    | Rust, Solidity | e.fedotova@hackenproof.com |
 | [Immunefi](https://immunefi.com)          | Rust, Solidity | team@immunefi.com          |
+| [Sherlock](https://sherlock.xyz)          | Rust, Solidity | contact@sherlock.xyz       |
 
 ## Selecting an Auditor 
 
