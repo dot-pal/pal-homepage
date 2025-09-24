@@ -23,7 +23,7 @@ The Bug Bounty Reimbursement Program supports projects running effective bug bou
 
 ## Funding
 
-Parachain projects that apply to any of PAL's funding programs can receive a combined total of up to **$100,000** every 6 months.
+Parachain or common-good projects that apply to any of PAL's funding programs can receive a combined total of up to **$100,000** every 6 months.
 
 Through the Bug Bounty Reimbursement Program, PAL can reimburse **up to 50%** of the total whitehat payout (**platform fees excluded**), with a yearly cap of **$80,000** per project, per calendar year. The maximum payout per reported vulnerability depends on the severity classification per the following table:
 
@@ -35,7 +35,7 @@ Through the Bug Bounty Reimbursement Program, PAL can reimburse **up to 50%** of
 | Low        | No reimbursement |
 
 <br />
-In addition, reimbursement amounts consider potential cross-project or systemic risks, bug bounty report quality, timeliness of patching the vulnerability and responsible disclosure with affected projects and stakeholders. 
+In addition, reimbursement amounts consider potential cross-project or systemic risks, bug bounty report quality, timeliness of patching the vulnerability, and responsible disclosure with affected projects and stakeholders. 
 
 All funding is paid out in DOT using the 7-day DOT EMA price.
 
@@ -46,7 +46,7 @@ All funding is paid out in DOT using the 7-day DOT EMA price.
 To be eligible to the Bug Bounty Reimbursement Program, applications need to satisfy all the following criteria:
 
 * The vulnerability reported relates to Rust code that is part of the Runtime of a Polkadot-SDK chain or its node host.
-* The applicant team is a Polkadot-SDK chain producing blocks on the Polkadot Network secured by Polkadot.
+* The applicant team is a Polkadot-SDK chain producing blocks on the Polkadot Network secured by Polkadot, or a common-good project that is part of the Polkadot ecosystem.
 * The requested amount is, at most, the maximum defined in the table above.
 * The code is open source.
 * The bug must have been reported after December 1st, 2024 (included)
