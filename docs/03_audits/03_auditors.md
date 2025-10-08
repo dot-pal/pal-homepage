@@ -31,6 +31,7 @@ The following is a list of PAL-approved auditors with their contacts:
 | [Pashov Audit Group](https://www.pashov.net/)           | Rust, Solidity                       | pashovkrum@gmail.com              |
 | [Red4Sec](https://red4sec.com)                          | Rust, Solidity                       | info@red4sec.com                  |
 | [Runtime Verification](https://runtimeverification.com) | Rust, Solidity                       | contact@runtimeverification.com   |
+| [Sherlock](https://sherlock.xyz)                        | Rust, Solidity                       | contact@sherlock.xyz              |
 | [Spearbit](https://spearbit.com)                        | Rust, Solidity                       | henry@spearbit.com                |
 | [SRLabs](https://srlabs.de)                             | Rust, Solidity                       | hello@srlabs.de                   |
 | [Trail of Bits](https://trailofbits.com)                | Rust, Solidity                       | sales@trailofbits.com             |
