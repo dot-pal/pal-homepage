@@ -3,6 +3,24 @@ title: Audit Reports
 description: Explore all the audit reports that were made possible by PAL
 ---
 ## 2025
+### Q4
+
+| Audit                       | LOC | Critical | High | Med | Low | Report                                                  |
+|-----------------------------|-----|----------|------|-----|-----|---------------------------------------------------------|
+| audit-beosin-bifrost-2510   | 362 | N/A      | N/A  | N/A | N/A | N/A                                                     |
+| audit-monethic-acurast-2510 | 850 | 0        | 1    | 3   | 2   | [report](/audit_reports/25q4/acurast-monethic-2510.pdf) |
+
+### Q3
+
+| Audit                        | LOC          | Critical | High | Med | Low | Report                                              |
+|------------------------------|--------------|----------|------|-----|-----|-----------------------------------------------------|
+| guvenkaya-virto-2507         | N/A          | N/A      | N/A  | N/A | N/A | N/A                                                 |
+| audit-xcavate-srlabs-2508    | 11000        | N/A      | N/A  | N/A | N/A | N/A                                                 |
+| audit-moonbeam-srlabs-2508   | (continuous) | N/A      | N/A  | N/A | N/A | N/A                                                 |
+| audit-neuro-srlabs-2508      | 850          | 0        | 1    | 3   | 2   | [report](/audit_reports/25q3/neuro-srlabs-2508.pdf) |
+| audit-bifrost-beosin-2509    | 2000         | N/A      | N/A  | N/A | N/A | N/A                                                 |
+| audit-sc-bifrost-beosin-2509 | 1800         | N/A      | N/A  | N/A | N/A | N/A                                                 |
+
 ### Q2
 
 | Audit                | LOC    | Critical | High | Med | Low | Report                                                  |
