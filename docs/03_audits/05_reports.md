@@ -12,14 +12,14 @@ description: Explore all the audit reports that were made possible by PAL
 
 ### Q3
 
-| Audit                        | LOC          | Critical | High | Med | Low | Report                                              |
-|------------------------------|--------------|----------|------|-----|-----|-----------------------------------------------------|
-| guvenkaya-virto-2507         | N/A          | N/A      | N/A  | N/A | N/A | N/A                                                 |
-| audit-xcavate-srlabs-2508    | 11000        | N/A      | N/A  | N/A | N/A | N/A                                                 |
-| audit-moonbeam-srlabs-2508   | (continuous) | N/A      | N/A  | N/A | N/A | N/A                                                 |
-| audit-neuro-srlabs-2508      | 850          | 0        | 1    | 3   | 2   | [report](/audit_reports/25q3/neuro-srlabs-2508.pdf) |
-| audit-bifrost-beosin-2509    | 2000         | N/A      | N/A  | N/A | N/A | N/A                                                 |
-| audit-sc-bifrost-beosin-2509 | 1800         | N/A      | N/A  | N/A | N/A | N/A                                                 |
+| Audit                        | LOC          | Critical | High | Med | Low | Report                                                 |
+|------------------------------|--------------|----------|------|-----|-----|--------------------------------------------------------|
+| guvenkaya-virto-2507         | N/A          | N/A      | N/A  | N/A | N/A | N/A                                                    |
+| audit-xcavate-srlabs-2508    | 11000        | N/A      | N/A  | N/A | N/A | [report](/audit_reports/25q3/xcavate-srlabs-2508.pdf)  |
+| audit-moonbeam-srlabs-2508   | (continuous) | N/A      | N/A  | N/A | N/A | N/A                                                    |
+| audit-neuroweb-srlabs-2508   | 850          | 0        | 1    | 3   | 2   | [report](/audit_reports/25q3/neuroweb-srlabs-2508.pdf) |
+| audit-bifrost-beosin-2509    | 2000         | N/A      | N/A  | N/A | N/A | N/A                                                    |
+| audit-sc-bifrost-beosin-2509 | 1800         | N/A      | N/A  | N/A | N/A | N/A                                                    |
 
 ### Q2
 
