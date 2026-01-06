@@ -20,7 +20,7 @@ The following is a list of PAL-approved auditors with their contacts:
 | [Beosin](https://beosin.com)                            | Rust, Solidity                       | service@beosin.com                |
 | [Certora](https://www.certora.com/)                     | Formal Verification, Smart Contracts | tre@certora.com                   |
 | [Chaintroopers](https://chaintroopers.com)              | Rust, Solidity                       | info@chaintroopers.com            |
-| [CoinFabrik](https://coinfabrik.com)                    | Rust, Solidity                       | valeria.caracciolo@coinfabrik.com |
+| [CoinFabrik](https://coinfabrik.com)                    | Rust, Solidity                       | sales-team@coinfabrik.com         |
 | [Dedaub](https://dedaub.com)                            | Rust, Solidity                       | contact@dedaub.com                |
 | [Guvenkaya](https://www.guvenkaya.co/)                  | Rust, Web2                           | timur@guvenkaya.co                |
 | [Hacken](https://hacken.io)                             | Rust, Solidity                       | b.bennett@hacken.io               |
