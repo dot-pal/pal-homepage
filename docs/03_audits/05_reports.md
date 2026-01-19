@@ -6,8 +6,8 @@ description: Explore all the audit reports that were made possible by PAL
 ### Q1
 
 <br/>
-| Bounty                     | Disclosures                                                  |
-|----------------------------|--------------------------------------------------------------|
+| Bounty               | Disclosures                                              |
+|----------------------|----------------------------------------------------------|
 | bugbounty-acala-2601 | [Report](/bounty_reports/26_q1/bugbounty-acala-2601.pdf) |
 
 ## 2025
@@ -19,8 +19,8 @@ description: Explore all the audit reports that were made possible by PAL
 | audit-monethic-acurast-2510 | 850 | 0        | 1    | 3   | 2   | [Report](/audit_reports/25q4/acurast-monethic-2510.pdf) |
 
 <br/>
-| Bounty                     | Disclosures                                                  |
-|----------------------------|--------------------------------------------------------------|
+| Bounty                     | Disclosures                                                    |
+|----------------------------|----------------------------------------------------------------|
 | bugbounty-hydration-2508-1 | [Report](/bounty_reports/25_q4/bugbounty-hydration-2508-1.pdf) |
 | bugbounty-hydration-2508-2 | [Report](/bounty_reports/25_q4/bugbounty-hydration-2508-2.pdf) |
 
@@ -51,8 +51,8 @@ description: Explore all the audit reports that were made possible by PAL
 | hydration-oak-2503 | 4,513 | 0        | 3    | 0   | 3   | [Report](/audit_reports/25q1/hydration-oak-2503.pdf) |
 
 <br/>
-| Bounty                     | Disclosures                                                  |
-|----------------------------|--------------------------------------------------------------|
+| Bounty               | Disclosures                                              |
+|----------------------|----------------------------------------------------------|
 | bugbounty-acala-2503 | [Report](/bounty_reports/25_q1/bugbounty-acala-2503.pdf) |
 
 ## 2024
