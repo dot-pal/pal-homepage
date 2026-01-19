@@ -1,6 +1,6 @@
 ---
-title: Audit Reports
-description: Explore all the audit reports that were made possible by PAL
+title: Reports
+description: Explore all the audit and bug bounty reports that were made possible by PAL
 ---
 ## 2026
 ### Q1
