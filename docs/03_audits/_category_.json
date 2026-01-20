@@ -4,6 +4,6 @@
   "link": {
     "slug": "/audits",
     "type": "generated-index",
-    "description": "PAL provides audit-related information to ensure transparency and security for users and developers interacting with the Moonbeam ecosystem. Here, you can find detailed reports and analyses of various audits."
+    "description": "PAL provides audit-related information to ensure transparency and security for users and Polkadot ecosystem developers. Here, you can find detailed reports and analyses of various audits."
   }
 }
