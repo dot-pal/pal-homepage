@@ -5,11 +5,7 @@ description: Common-good Security Tooling for Polkadot
 
 PAL can provide funding for the development of open-source security tooling which is made available to the Polkadot ecosystem.
 
-<div class="fundingButton">
-  <a href="https://forms.gle/SvSG3dBkabirMsQ5A" target="_blank" class="button button--primary">
-    <p class="innerButtonText"> Apply for Funding </p>
-  </a>
-</div>
+**NOTE:** Funding is on a pause
 
 ## Funding
 PAL can provide up to **$250,000** funding (in milestones of max. $50,000).
