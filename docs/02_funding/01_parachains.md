@@ -5,11 +5,7 @@ description: Audits of Polkadot-SDK chains secured by Polkadot
 
 PAL can provide funding for audits of Polkadot parachains - i.e. chains built on Polkadot-SDK which are secured by Polkadot.
 
-<div class="fundingButton">
-  <a href="https://forms.gle/SbN9ygbDsvX3XU5d6" target="_blank" class="button button--primary">
-    <p class="innerButtonText"> Apply for Funding </p>
-  </a>
-</div>
+**NOTE:** Funding is on a pause
 
 ## Funding
 
