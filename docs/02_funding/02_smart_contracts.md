@@ -5,11 +5,7 @@ description: Audits of Smart Contracts deployed on Polkadot
 
 PAL can provide funding for audits of Smart Contracts which are deployed on Polkadot - i.e. projects that deploy smart contracts in chains secured by Polkadot.
 
-<div class="fundingButton">
-  <a href="https://forms.gle/y2GYr3itDBjuBY97A" target="_blank" class="button button--primary">
-    <p class="innerButtonText"> Apply for Funding </p>
-  </a>
-</div>
+**NOTE:** Funding is on a pause
 
 ## Funding
 PAL can cover **up to 50%** of the costs of an audit, with a hard cap of **$50,000**.
