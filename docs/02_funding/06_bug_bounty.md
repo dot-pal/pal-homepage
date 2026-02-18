@@ -9,11 +9,7 @@ The Bug Bounty Reimbursement Program supports projects running effective bug bou
 
 **Final decision on reimbursement amount (or denial) is made by PAL curators.**
 
-<div class="fundingButton">
-  <a href="https://forms.gle/1xjcR1RP4FmCwbtt5" target="_blank" class="button button--primary">
-    <p class="innerButtonText"> Apply for Funding </p>
-  </a>
-</div>
+**NOTE:** Funding is on a pause
 
 ## Bug Bounty Autonomy
 
