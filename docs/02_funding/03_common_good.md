@@ -7,12 +7,7 @@ PAL can provide funding to cover the audits of a piece of common good functional
 
 Examples of such functionality are Polkadot-SDK pallets that are used by multiple projects, or the Runtime of a Polkadot System Chain.
 
-<div class="fundingButton">
-  <a href="https://forms.gle/mEdegQJESgnbsK8e7" target="_blank" class="button button--primary">
-    <p class="innerButtonText"> Apply for Funding </p>
-  </a>
-</div>
-
+**NOTE:** Funding is on a pause
 
 ## Funding
 PAL can cover the full costs of an audit of common-good functionality, with a cap of $100,000.
