@@ -4,6 +4,10 @@ title: About PAL
 slug: /
 ---
 
+:::warning
+**PAL has suspended funding of all Security related initiatives until further notice.**
+:::
+
 The Polkadot Assurance Legion (PAL) is a non-profit community initiative which has the mission to promote and advance open-source security in the Polkadot ecosystem, and to make Polkadot a safer and more attractive ecosystem for builders and users.
 
 We provide [funding](/funding) from the Polkadot Treasury towards various security initiatives:

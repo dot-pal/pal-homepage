@@ -9,7 +9,9 @@ The Bug Bounty Reimbursement Program supports projects running effective bug bou
 
 **Final decision on reimbursement amount (or denial) is made by PAL curators.**
 
-**NOTE:** Funding is on a pause
+:::caution
+**PAL has suspended funding of Bug Bounty Reimbursement until further notice.**
+:::
 
 ## Bug Bounty Autonomy
 
@@ -56,10 +58,14 @@ Reimbursement applications that fail to meet these two criteria are automaticall
 
 ## Application
 
-Follow the steps below to apply for Bug Bounty Reimbursement Program:
+:::caution
+**Applications are currently not being accepted. PAL has suspended funding of Bug Bounty Reimbursement until further notice.**
+:::
 
-1. Ensure you fulfill the [Eligibility Criteria](#eligibility-criteria). 
-2. Join the PAL Discord - this is where all communication takes place.
-3. Submit your funding application using our Application Form at the top of this page.
+~~Follow the steps below to apply for Bug Bounty Reimbursement Program:~~
 
-The usual processing time of applications is 1-2 weeks. We will keep you updated on a dedicated Discord channel.
+1. ~~Ensure you fulfill the [Eligibility Criteria](#eligibility-criteria).~~
+2. ~~Join the PAL Discord - this is where all communication takes place.~~
+3. ~~Submit your funding application using the Application Form.~~
+
+~~The usual processing time of applications is 1-2 weeks. We will keep you updated on a dedicated Discord channel.~~
