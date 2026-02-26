@@ -6,7 +6,7 @@ description: Onboard as an auditor or browse the list of auditors that cooperate
 PAL works with a curated pool of reputable auditors in the Web3 security space. This includes both traditional auditing firms and platforms for crowdsourced audits.
 
 <div class="fundingButton">
-  <a href="https://forms.gle/7G1sA3jKTpbuQ7Qi6" target="_blank" class="button button--primary">
+  <a class="button button--primary disabled" style={{pointerEvents: 'none', opacity: 0.5, cursor: 'not-allowed'}}>
     <p class="innerButtonText"> Apply as Auditor </p>
   </a>
 </div>
