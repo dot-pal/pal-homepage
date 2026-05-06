@@ -5,12 +5,12 @@ description: Common-good Security Tooling for Polkadot
 
 PAL can provide funding for the development of open-source security tooling which is made available to the Polkadot ecosystem.
 
-:::caution
-**PAL has suspended funding of Security Tooling Development until further notice.**
-:::
-
 ## Funding
-PAL can provide up to **$250,000** funding (in milestones of max. $50,000).
+PAL can provide up to **$15,000** per project, every 6 months (**$30,000 per year**).
+
+:::info
+The $15,000 / 6 months ($30,000 / year) cap is **combined across all PAL funding programs**. Funds claimed from one program (for example, a parachain audit) count toward the same allowance for every other program (smart contracts, common-good, security tooling, and bug bounty) during the same 6-month period.
+:::
 
 All funding is paid out in DOT using the 7-day DOT EMA price.
 
@@ -20,7 +20,6 @@ In order to receive PAL funding, applications need to satisfy all the following 
 * The proposal relates to the development or making available of security tooling in Polkadot.
 * The security tooling can be deemed useful and beneficial to the wider Polkadot ecosystem.
 * The security tooling is novel, meaning that there are no alternatives already existing in Polkadot. If this is not the case, funding may still be granted if redundancy is deemed necessary.
-* Proposals exceeding $50,000 are split into milestones, with partial payouts done after reviewing the delivery of every milestone.
 * The security tool should be open-source and made available to be used by any Polkadot project.
 * Proposals must have well-defined deliverables detailing exactly what the work product will do.
 * Proposal budgets must be detailed with a breakdown of man-hours and hourly rates by role. Do not combine all costs and present them at a high level.
@@ -33,15 +32,11 @@ In order to receive PAL funding, applications need to satisfy all the following 
 
 ## Application
 
-:::caution
-**Applications are currently not being accepted. PAL has suspended funding of Security Tooling Development until further notice.**
-:::
+Follow the steps below to apply for funding:
 
-~~Follow the steps below to apply for audit funding:~~
+1. Make sure you fulfill the [Eligibility Criteria](#eligibility-criteria).
+2. Join the [PAL Discord](https://discord.gg/xDyGGcnCJw) - this is where all communication takes place.
+3. Prepare an offer in accordance with the [Eligibility Criteria](#eligibility-criteria).
+4. Submit your funding application using the Application Form.
 
-1. ~~Make sure you fulfill the [Eligibility Criteria](#eligibility-criteria).~~
-2. ~~Join the [PAL Discord](https://discord.gg/xDyGGcnCJw) - this is where all communication takes place.~~
-3. ~~Prepare an offer in accordance with the [Eligibility Criteria](#eligibility-criteria).~~
-4. ~~Submit your funding application using the Application Form.~~
-
-~~The usual processing time of applications is 1-2 weeks. We will keep you updated in a dedicated Discord channel.~~
+The usual processing time of applications is 1-2 weeks. We will keep you updated in a dedicated Discord channel.
