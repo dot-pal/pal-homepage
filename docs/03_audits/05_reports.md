@@ -30,7 +30,7 @@ description: Explore all the audit and bug bounty reports that were made possibl
 |------------------------------|--------------|----------|------|-----|-----|----------------------------------------------------------|
 | guvenkaya-virto-2507         | 1269         | 0        | 1    | 4   | 3   | [Report](/audit_reports/25q3/guvenkaya-virto-2507.pdf)   |
 | audit-xcavate-srlabs-2508    | 11000        | 0        | 10   | 10  | 6   | [Report](/audit_reports/25q3/xcavate-srlabs-2508.pdf)    |
-| audit-moonbeam-srlabs-2508   | (continuous) | N/A      | N/A  | N/A | N/A | N/A                                                      |
+| audit-moonbeam-srlabs-2508   | (continuous) | 0        | 0    | 1   | 3   | [Report](/audit_reports/25q3/moonbeam-srlabs-2508.pdf)   |
 | audit-neuroweb-srlabs-2508   | 850          | 0        | 1    | 3   | 2   | [Report](/audit_reports/25q3/neuroweb-srlabs-2508.pdf)   |
 | audit-bifrost-beosin-2509    | 2000         | 0        | 0    | 1   | 1   | [Report](/audit_reports/25q3/bifrost-beosin-2509.pdf)    |
 | audit-sc-bifrost-beosin-2509 | 1800         | 0        | 0    | 0   | 1   | [Report](/audit_reports/25q3/bifrost-sc-beosin-2509.pdf) |
