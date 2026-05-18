@@ -9,10 +9,6 @@ The Bug Bounty Reimbursement Program supports projects running effective bug bou
 
 **Final decision on reimbursement amount (or denial) is made by PAL curators.**
 
-:::caution
-**PAL has suspended funding of Bug Bounty Reimbursement until further notice.**
-:::
-
 ## Bug Bounty Autonomy
 
 1. Projects must fully manage their bounty programs (creation, announcements, reward disbursements).
@@ -21,19 +17,23 @@ The Bug Bounty Reimbursement Program supports projects running effective bug bou
 
 ## Funding
 
-Parachain or common-good projects that apply to any of PAL's funding programs can receive a combined total of up to **$100,000** every 6 months.
+Through the Bug Bounty Reimbursement Program, PAL can reimburse **up to 50%** of the total whitehat payout (**platform fees excluded**), with a hard cap of **$15,000** per project, every 6 months (**$30,000 per year**).
 
-Through the Bug Bounty Reimbursement Program, PAL can reimburse **up to 50%** of the total whitehat payout (**platform fees excluded**), with a yearly cap of **$80,000** per project, per calendar year. The maximum payout per reported vulnerability depends on the severity classification per the following table:
+:::info
+The $15,000 / 6 months ($30,000 / year) cap is **combined across all PAL funding programs**. Funds claimed from one program (for example, a parachain audit) count toward the same allowance for every other program (smart contracts, common-good, security tooling, and bug bounty) during the same 6-month period.
+:::
 
-| # Severity | Max Payout       |
-|------------|------------------|
-| Critical   | Up to $ 50,000   |
-| High       | Up to $ 25,000   |
-| Medium     | No reimbursement |
-| Low        | No reimbursement |
+Reimbursement is only available for **High** and **Critical** severity findings. The maximum payout per reported vulnerability depends on the severity classification per the following table:
+
+| Severity | Max Payout       |
+|----------|------------------|
+| Critical | Up to $ 15,000   |
+| High     | Up to $ 7,500    |
+| Medium   | No reimbursement |
+| Low      | No reimbursement |
 
 <br />
-In addition, reimbursement amounts consider potential cross-project or systemic risks, bug bounty report quality, timeliness of patching the vulnerability, and responsible disclosure with affected projects and stakeholders. 
+In addition, reimbursement amounts consider potential cross-project or systemic risks, bug bounty report quality, timeliness of patching the vulnerability, and responsible disclosure with affected projects and stakeholders.
 
 All funding is paid out in DOT using the 7-day DOT EMA price.
 
@@ -45,27 +45,24 @@ To be eligible to the Bug Bounty Reimbursement Program, applications need to sat
 
 * The vulnerability reported relates to Rust code that is part of the Runtime of a Polkadot-SDK chain or its node host.
 * The applicant team is a Polkadot-SDK chain producing blocks on the Polkadot Network secured by Polkadot, or a common-good project that is part of the Polkadot ecosystem.
-* The requested amount is, at most, the maximum defined in the table above.
+* The requested amount does not exceed the cap defined above.
 * The code is open source.
-* The bug must have been reported after December 1st, 2024 (included)
+* The bug must have been reported after December 1st, 2024 (included).
 * Teams must submit the application form no later than 3 months after payment.
-* The applicant agrees that PAL will make the audit report public (once the team has addressed any open issues).
+* The applicant agrees that PAL will make the bounty report public (once the team has addressed any open issues).
 * After the team pays a bounty to the bounty reporter (whitehat), and optionally after the vulnerability is fixed, deployed, and ready for disclosure, the project is required to submit through the onboarding form:
   1. A bounty report detailing the vulnerability, severity, and resolution.
   2. Evidence of whitehat payments (receipts, transaction IDs, etc.).
 * If a discovered vulnerability may affect other projects, PAL may request a private disclosure phase before public release.
-Reimbursement applications that fail to meet these two criteria are automatically discarded by PAL curators.
+
+Reimbursement applications that fail to meet the criteria above are automatically discarded by PAL curators.
 
 ## Application
 
-:::caution
-**Applications are currently not being accepted. PAL has suspended funding of Bug Bounty Reimbursement until further notice.**
-:::
+Follow the steps below to apply for the Bug Bounty Reimbursement Program:
 
-~~Follow the steps below to apply for Bug Bounty Reimbursement Program:~~
+1. Ensure you fulfill the [Eligibility Criteria](#eligibility-criteria).
+2. Join the PAL Discord - this is where all communication takes place.
+3. Submit your funding application using the Application Form.
 
-1. ~~Ensure you fulfill the [Eligibility Criteria](#eligibility-criteria).~~
-2. ~~Join the PAL Discord - this is where all communication takes place.~~
-3. ~~Submit your funding application using the Application Form.~~
-
-~~The usual processing time of applications is 1-2 weeks. We will keep you updated on a dedicated Discord channel.~~
+The usual processing time of applications is 1-2 weeks. We will keep you updated on a dedicated Discord channel.

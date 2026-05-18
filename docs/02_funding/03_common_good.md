@@ -7,21 +7,17 @@ PAL can provide funding to cover the audits of a piece of common good functional
 
 Examples of such functionality are Polkadot-SDK pallets that are used by multiple projects, or the Runtime of a Polkadot System Chain.
 
-:::caution
-**PAL has suspended funding of Common-Good Audit Funding until further notice.**
-:::
-
 ## Funding
-PAL can cover the full costs of an audit of common-good functionality, with a cap of $100,000.
+PAL can cover the costs of an audit of common-good functionality, with a cap of **$15,000** per project, every 6 months (**$30,000 per year**).
+
+:::info
+The $15,000 / 6 months ($30,000 / year) cap is **combined across all PAL funding programs**. Funds claimed from one program (for example, a parachain audit) count toward the same allowance for every other program (smart contracts, common-good, security tooling, and bug bounty) during the same 6-month period.
+:::
 
 All funding is paid out in DOT using the 7-day DOT EMA price.
 
 ## Application
 
-:::caution
-**Applications are currently not being accepted. PAL has suspended funding of Common-Good Audit Funding until further notice.**
-:::
+Funding for audits of common-good functionality is provided upon the initiative of the PAL Curators.
 
-~~Funding for audits of common-good functionality is provided upon the initiative of the PAL Curators.~~
-
-~~If you would like to propose an audit for such functionality, please get in touch with us.~~
+If you would like to propose an audit for such functionality, please get in touch with us.
