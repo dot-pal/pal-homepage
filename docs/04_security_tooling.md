@@ -37,3 +37,10 @@ The Polkadot Ecosystem Monitoring Tool is an open-source platform for real-time 
 - Enhanced rule engine with a lightweight DSL for defining custom alert conditions across chains, events, and time.
 
 Source code: [https://github.com/sodazone/ocelloids-services](https://github.com/sodazone/ocelloids-services)
+
+**Milestone Reports**
+
+| Milestone   | Year | Quarter | Paid out   | Report                                              |
+|-------------|------|---------|------------|-----------------------------------------------------|
+| Milestone 1 | 2025 | Q4      | 23,713 DOT | [Report](/audit_reports/25q4/ocelloids-m1-2510.pdf) |
+| Milestone 2 | 2026 | Q1      | 37,251 DOT | [Report](/audit_reports/26q1/ocelloids-m2-2601.pdf) |
