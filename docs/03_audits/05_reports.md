@@ -15,8 +15,9 @@ description: Explore all the audit and bug bounty reports that were made possibl
 
 | Audit                       | LOC | Critical | High | Med | Low | Report                                                  |
 |-----------------------------|-----|----------|------|-----|-----|---------------------------------------------------------|
-| audit-beosin-bifrost-2510   | 362 | N/A      | N/A  | N/A | N/A | N/A                                                     |
-| audit-monethic-acurast-2510 | 850 | 0        | 1    | 3   | 2   | [Report](/audit_reports/25q4/acurast-monethic-2510.pdf) |
+| audit-beosin-bifrost-2510   | 362   | N/A      | N/A  | N/A | N/A | N/A                                                     |
+| audit-monethic-acurast-2510 | 850   | 0        | 1    | 3   | 2   | [Report](/audit_reports/25q4/acurast-monethic-2510.pdf) |
+| audit-monethic-acurast-2511 | 8,408 | 3        | 3    | 1   | 3   | [Report](/audit_reports/25q4/acurast-monethic-2511.pdf) |
 
 <br/>
 | Bounty                     | Disclosures                                                    |
