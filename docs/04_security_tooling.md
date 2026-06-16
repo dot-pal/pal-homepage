@@ -2,9 +2,9 @@
 title: Security Tooling
 ---
 
-PAL funds the development of security tooling which benefits the Polkadot ecosystem.
+PAL funded the development of security tooling which benefits the Polkadot ecosystem.
 
-On this page you will find a list of all security tools that were funded by PAL, organized by category. If you are looking to apply for funding, check out the [funding page](/funding/security_tooling).
+On this page you will find a list of all security tools that were funded by PAL, organized by category.
 
 ## Static Analysis
 ### Scout by Coinfabrik
@@ -28,11 +28,13 @@ The Polkadot Ecosystem Monitoring Tool is an open-source platform for real-time 
 - Monitoring governance proposal life cycles on Polkadot, Kusama, and their parachains.  
 - Real-time alerts delivered via Telegram and webhooks.  
 - Visibility of all bridge and XCM flows on [XCSCAN](https://xcscan.io).  
-- Polkadot and Kusama governance [Telegram notification bot](https://t.me/+skwPmvoNau83OTc0).
+- Polkadot and Kusama governance [Telegram notification bot](https://t.me/+skwPmvoNau83OTc0).  
+- A **monitoring console** for teams to manage alerts, visualize metrics, and investigate events.  
+- DeFi protocol metrics — TVL, swap, and lending volumes — across **Hydration**, **Moonbeam**, and **Bifrost** (DEX liquidity pools, money markets, and liquid staking).  
+- Alerting templates for money market health (solvency and utilization) and DEX liquidity pool TVL.
 
 **Upcoming Features**  
-- A **monitoring console** for teams to manage alerts, visualize metrics, and investigate events.  
-- DeFi protocol metrics, including TVL, swap, and lending volumes across Asset Hub, Hydration, Moonbeam, Acala, and Bifrost.  
+- DeFi protocol metrics for additional chains (Asset Hub, Acala).  
 - Visualization of transfer flows, including XCM and bridged transfers, CEX inflows/outflows, and tagged address activity.  
 - Enhanced rule engine with a lightweight DSL for defining custom alert conditions across chains, events, and time.
 
@@ -40,7 +42,10 @@ Source code: [https://github.com/sodazone/ocelloids-services](https://github.com
 
 **Milestone Reports**
 
-| Milestone   | Year | Quarter | Paid out   | Report                                              |
-|-------------|------|---------|------------|-----------------------------------------------------|
-| Milestone 1 | 2025 | Q4      | 23,713 DOT | [Report](/audit_reports/25q4/ocelloids-m1-2510.pdf) |
-| Milestone 2 | 2026 | Q1      | 37,251 DOT | [Report](/audit_reports/26q1/ocelloids-m2-2601.pdf) |
+| Milestone                                                | Year | Quarter | Paid out     | Report                                              |
+|----------------------------------------------------------|------|---------|--------------|-----------------------------------------------------|
+| Milestone 1                                              | 2025 | Q4      | 23,713 DOT   | [Report](/audit_reports/25q4/ocelloids-m1-2510.pdf) |
+| Milestone 2                                              | 2026 | Q1      | 37,251 DOT   | [Report](/audit_reports/26q1/ocelloids-m2-2601.pdf) |
+| Milestone 3                                              | 2026 | Q2      | 47,376.8 DOT | [Report](/audit_reports/26q2/ocelloids-m3-2606.pdf) |
+| Milestone 4                                              | 2026 | Q2      | 35,085.5 DOT | TBA                                                 |
+| Infrastructure, operations and maintenance (12 months)   | 2026 | Q2      | 19,542.5 DOT | —                                                   |

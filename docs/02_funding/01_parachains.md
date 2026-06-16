@@ -3,6 +3,10 @@ title: Parachains
 description: Audits of Polkadot-SDK chains secured by Polkadot
 ---
 
+:::warning
+PAL has concluded — no further funding requests are being processed. This page is retained for historical reference. Existing engagements continue per their agreements.
+:::
+
 PAL can provide funding for audits of Polkadot parachains - i.e. chains built on Polkadot-SDK which are secured by Polkadot.
 
 ## Funding
@@ -35,6 +39,3 @@ Follow the steps below to apply for audit funding:
 4. Join the PAL Discord - this is where all communication takes place.
 5. Request at least two offers for an audit from at least 2 PAL-approved auditors.
 6. Decide which offer you wish to proceed with.
-7. Submit your funding application using the Application Form.
-
-The usual processing time of applications is 1-2 weeks. We will keep you updated in a dedicated Discord channel.

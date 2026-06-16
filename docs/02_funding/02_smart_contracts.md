@@ -3,6 +3,10 @@ title: Smart Contracts
 description: Audits of Smart Contracts deployed on Polkadot
 ---
 
+:::warning
+PAL has concluded — no further funding requests are being processed. This page is retained for historical reference. Existing engagements continue per their agreements.
+:::
+
 PAL can provide funding for audits of Smart Contracts which are deployed on Polkadot - i.e. projects that deploy smart contracts in chains secured by Polkadot.
 
 ## Funding
@@ -38,6 +42,3 @@ Follow the steps below to apply for audit funding:
 4. Join the PAL Discord - this is where all communication takes place.
 5. Request at least 2 offers for an audit from at least 2 auditors approved by PAL.
 6. Decide which offer you wish to proceed with.
-7. Submit your funding application using the Application Form.
-
-The usual processing time of applications is 1-2 weeks. We will keep you updated in a dedicated Discord channel.

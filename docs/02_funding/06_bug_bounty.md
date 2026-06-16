@@ -3,6 +3,10 @@ title: Bug Bounty
 description: Bug Bounty Reimbursement Program for Polkadot-SDK chains secured by Polkadot
 ---
 
+:::warning
+PAL has concluded — no further funding requests are being processed. This page is retained for historical reference. Existing engagements continue per their agreements.
+:::
+
 PAL can provide reimbursement for bug bounty programs run by chains built on Polkadot-SDK which are secured by Polkadot.
 
 The Bug Bounty Reimbursement Program supports projects running effective bug bounty programs, ensuring vulnerabilities across the Polkadot ecosystem are discovered, fixed, and disclosed responsibly.
@@ -48,9 +52,8 @@ To be eligible to the Bug Bounty Reimbursement Program, applications need to sat
 * The requested amount does not exceed the cap defined above.
 * The code is open source.
 * The bug must have been reported after December 1st, 2024 (included).
-* Teams must submit the application form no later than 3 months after payment.
 * The applicant agrees that PAL will make the bounty report public (once the team has addressed any open issues).
-* After the team pays a bounty to the bounty reporter (whitehat), and optionally after the vulnerability is fixed, deployed, and ready for disclosure, the project is required to submit through the onboarding form:
+* After the team pays a bounty to the bounty reporter (whitehat), and optionally after the vulnerability is fixed, deployed, and ready for disclosure, the project is required to submit:
   1. A bounty report detailing the vulnerability, severity, and resolution.
   2. Evidence of whitehat payments (receipts, transaction IDs, etc.).
 * If a discovered vulnerability may affect other projects, PAL may request a private disclosure phase before public release.
@@ -63,6 +66,3 @@ Follow the steps below to apply for the Bug Bounty Reimbursement Program:
 
 1. Ensure you fulfill the [Eligibility Criteria](#eligibility-criteria).
 2. Join the PAL Discord - this is where all communication takes place.
-3. Submit your funding application using the Application Form.
-
-The usual processing time of applications is 1-2 weeks. We will keep you updated on a dedicated Discord channel.

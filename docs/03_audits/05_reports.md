@@ -5,6 +5,10 @@ description: Explore all the audit and bug bounty reports that were made possibl
 ## 2026
 ### Q1
 
+| Audit                      | LOC     | Critical | High | Med | Low | Report                                                  |
+|----------------------------|---------|----------|------|-----|-----|---------------------------------------------------------|
+| audit-moonbeam-srlabs-2601 | 180,000 | 0        | 1    | 0   | 1   | [Report](/audit_reports/26q1/moonbeam-srlabs-2601.pdf)  |
+
 <br/>
 | Bounty               | Disclosures                                              |
 |----------------------|----------------------------------------------------------|
