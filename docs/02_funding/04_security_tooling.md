@@ -3,6 +3,10 @@ title: Security Tooling
 description: Common-good Security Tooling for Polkadot
 ---
 
+:::warning
+PAL has concluded — no further funding requests are being processed. This page is retained for historical reference. Existing engagements continue per their agreements.
+:::
+
 PAL can provide funding for the development of open-source security tooling which is made available to the Polkadot ecosystem.
 
 ## Funding
@@ -37,6 +41,3 @@ Follow the steps below to apply for funding:
 1. Make sure you fulfill the [Eligibility Criteria](#eligibility-criteria).
 2. Join the [PAL Discord](https://discord.gg/xDyGGcnCJw) - this is where all communication takes place.
 3. Prepare an offer in accordance with the [Eligibility Criteria](#eligibility-criteria).
-4. Submit your funding application using the Application Form.
-
-The usual processing time of applications is 1-2 weeks. We will keep you updated in a dedicated Discord channel.

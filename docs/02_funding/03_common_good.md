@@ -3,6 +3,10 @@ title: Common-Good Functionality
 description: Audits of common-good System Chains deployed on Polkadot
 ---
 
+:::warning
+PAL has concluded — no further funding requests are being processed. This page is retained for historical reference. Existing engagements continue per their agreements.
+:::
+
 PAL can provide funding to cover the audits of a piece of common good functionality written in Rust / Polkadot-SDK.
 
 Examples of such functionality are Polkadot-SDK pallets that are used by multiple projects, or the Runtime of a Polkadot System Chain.

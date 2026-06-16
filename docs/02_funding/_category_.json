@@ -1,10 +1,10 @@
 {
-  "label": "Get Funding",
+  "label": "Funding (Historical)",
   "position": 2,
-  "description": "Apply for funding through PAL for your audit or to develop a security tool.",
+  "description": "Historical reference for the funding programs that PAL operated.",
   "link": {
     "slug": "/funding",
     "type": "generated-index",
-    "description": "To make Polkadot a safe an attractive ecosystem for both builders and users, PAL provides funding towards the categories listed below:"
+    "description": "PAL has concluded — no further funding requests are being processed. The pages below are retained for historical reference and describe the funding programs PAL ran across the categories listed below:"
   }
 }

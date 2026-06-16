@@ -60,12 +60,12 @@ const config = {
       // Replace with your project's social card
       image: 'img/social-card.png',
       announcementBar: {
-        id: 'funding-resumed-2026',
+        id: 'pal-concluded-2026',
         content:
-          '🎉 PAL funding has resumed under new conditions. <a href="/funding">See the funding programs</a>.',
+          'PAL has concluded — no further funding requests will be processed. Existing engagements continue per their agreements.',
         backgroundColor: '#E6007A',
         textColor: '#ffffff',
-        isCloseable: true,
+        isCloseable: false,
       },
       navbar: {
         title: 'DOT PAL',

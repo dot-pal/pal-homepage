@@ -4,9 +4,13 @@ description: RFP for an Ecosystem Monitoring Tool
 slug: 2501
 ---
 
-In 2025 PAL aims to facilitate the delivery of a Monitoring Tool for the Polkadot ecosystem which monitors the most important value flows in the Polkadot ecosystem and flags any suspicious activity. The goal of the tool is to improve the security capabilities of the ecosystem by making potentially malicious flows discoverable and enabling teams to detect, respond in a timely manner and facilitate recovery potentially.
+:::warning
+PAL has concluded — no further funding requests are being processed. This page is retained for historical reference. Existing engagements continue per their agreements.
+:::
 
-This document sets out the general Specifications of the tool, as well as the procedure that can be followed by interested vendors to apply.
+In 2025 PAL facilitated the delivery of a Monitoring Tool for the Polkadot ecosystem which monitors the most important value flows in the Polkadot ecosystem and flags any suspicious activity. The goal of the tool is to improve the security capabilities of the ecosystem by making potentially malicious flows discoverable and enabling teams to detect, respond in a timely manner and facilitate recovery potentially.
+
+This document sets out the general Specifications of the tool.
 
 ## Specifications
 Below you find a preliminary list of the most important flows and metrics that should be covered. This list includes both general metrics (applicable to the whole ecosystem, e.g. XCM), and specific metrics. In the case of specific metrics, priority is given to features and products which are of highest importance to the ecosystem (e.g. due to their high usage and economic importance - TVL, Volumes etc).
@@ -43,17 +47,3 @@ Below you find a preliminary list of the most important flows and metrics that s
 All amounts should be tracked both in asset amount and DOT in USD amount.
 
 In addition, the tool must provide the ability to allow teams to define custom rules (For example,  storage value of X @ chain A + storage value of Y @ chain B - storage value of Z @ chain C smaller than 100).
-
-## How to Apply
-### APPLICATIONS ARE CLOSED
-Vendors who are interested in delivering the requested tool can apply following this procedure (**application deadline: May 30th, 2025**):
-
-* Check out the [eligibility criteria](/funding/security_tooling). A short recap hereunder:
-    * Max funding is $250,000, split into milestones not exceeding $50,000
-    * If the total costs exceed this limit, it can be negotiated to deliver an MVP with the core functionality that fits within the limit, with a follow-up request to OpenGov to cover the remaining functionality (once the MVP has been delivered)
-    * The tool should be open-source
-* The application should include an offer which details out the scope of the implementation, the timeframes, the milestones, and the cost (including man-hours and rate per role)  
-* The proposal should cover the maintenance of the tool during 12 months after its delivery, as well as an estimate of the maintenance costs thereafter
-
-
-Once you submit your application, please [join our Discord](https://discord.gg/xDyGGcnCJw) and get in touch.
