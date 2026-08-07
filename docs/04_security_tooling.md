@@ -23,18 +23,16 @@ Link: [https://www.ocelloids.net/docs/](https://www.ocelloids.net/docs/)
 
 The Polkadot Ecosystem Monitoring Tool is an open-source platform for real-time and historical monitoring across the Polkadot ecosystem, currently under active development. Built on the Ocelloids framework, it provides actionable insight into transfer activity, including cross-chain bridge transfers, DeFi protocol metrics, and governance events.
 
-**Current Capabilities**  
+**Capabilities**  
 - Tracking major Polkadot interoperability protocols: XCM, Snowbridge, Hyperbridge, Wormhole, and the Polkadot–Kusama Bridge.  
 - Monitoring governance proposal life cycles on Polkadot, Kusama, and their parachains.  
 - Real-time alerts delivered via Telegram and webhooks.  
 - Visibility of all bridge and XCM flows on [XCSCAN](https://xcscan.io).  
-- Polkadot and Kusama governance [Telegram notification bot](https://t.me/+skwPmvoNau83OTc0).  
+- Polkadot and Kusama governance [Telegram notification bot](https://t.me/+skwPmvoNau83OTc0).
+- Hyperion public alerts [Telegram notification bot](https://t.me/hyperion_alerts).
 - A **monitoring console** for teams to manage alerts, visualize metrics, and investigate events.  
-- DeFi protocol metrics — TVL, swap, and lending volumes — across **Hydration**, **Moonbeam**, and **Bifrost** (DEX liquidity pools, money markets, and liquid staking).  
+- DeFi protocol metrics — TVL, swap, and lending volumes — across **Hydration**, **Moonbeam**, **Bifrost**, **Asset Hub** and **Acala** (DEX liquidity pools, money markets, and liquid staking).  
 - Alerting templates for money market health (solvency and utilization) and DEX liquidity pool TVL.
-
-**Upcoming Features**  
-- DeFi protocol metrics for additional chains (Asset Hub, Acala).  
 - Visualization of transfer flows, including XCM and bridged transfers, CEX inflows/outflows, and tagged address activity.  
 - Enhanced rule engine with a lightweight DSL for defining custom alert conditions across chains, events, and time.
 
@@ -47,5 +45,5 @@ Source code: [https://github.com/sodazone/ocelloids-services](https://github.com
 | Milestone 1                                              | 2025 | Q4      | 23,713 DOT   | [Report](/audit_reports/25q4/ocelloids-m1-2510.pdf) |
 | Milestone 2                                              | 2026 | Q1      | 37,251 DOT   | [Report](/audit_reports/26q1/ocelloids-m2-2601.pdf) |
 | Milestone 3                                              | 2026 | Q2      | 47,376.8 DOT | [Report](/audit_reports/26q2/ocelloids-m3-2606.pdf) |
-| Milestone 4                                              | 2026 | Q2      | 35,085.5 DOT | TBA                                                 |
+| Milestone 4                                              | 2026 | Q2      | 35,085.5 DOT | [Report](/audit_reports/26q3/ocelloids-m4-2608.pdf) |
 | Infrastructure, operations and maintenance (12 months)   | 2026 | Q2      | 19,542.5 DOT | —                                                   |
